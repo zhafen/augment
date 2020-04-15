@@ -11,7 +11,7 @@ setuptools.setup(
     description="A collection of small but useful Python functions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zhafen/verdict",
+    url="https://github.com/zhafen/augment",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
