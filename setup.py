@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="augment",
+    name="simple-augment",
     version="1.0",
     author="Zach Hafen",
     author_email="zachary.h.hafen@gmail.com",
